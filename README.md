@@ -1,3 +1,7 @@
+AJAX-EASY
+=========
+[![Build Status](https://travis-ci.org/ArvoGuo/ajax-easy.svg?branch=master)](https://travis-ci.org/ArvoGuo/ajax-easy)
+
 A easy ajax library
 
 usage way : script, npm

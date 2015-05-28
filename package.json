@@ -1,0 +1,19 @@
+{
+  "name": "ajax-easy",
+  "version": "1.0.0",
+  "description": "A easy ajax libiary",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArvoGuo/ajax-easy.git"
+  },
+  "keywords": [
+    "ajax"
+  ],
+  "author": "Arvo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArvoGuo/ajax-easy/issues"
+  },
+  "homepage": "https://github.com/ArvoGuo/ajax-easy"
+}
